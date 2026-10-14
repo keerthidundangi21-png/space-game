@@ -1,0 +1,14 @@
+# Godot generated files
+.godot/
+.import/
+
+# Exported builds
+*.exe
+*.apk
+*.aab
+*.pck
+*.zip
+
+# OS/editor files
+.DS_Store
+Thumbs.db
